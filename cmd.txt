@@ -1,0 +1,10 @@
+python Server.py 1025
+python ClientLauncher.py localhost 1025 3000 Jeon-So-Mi.mjpeg
+
+Server.py
+1025
+ClientLauncher.py
+localhost
+1025
+3000
+Jeon-So-Mi.mjpeg
